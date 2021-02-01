@@ -1,2 +1,2 @@
 # V1Repo
-Test copy template V1
+Test template V1
